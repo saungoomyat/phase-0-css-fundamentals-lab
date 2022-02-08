@@ -3,3 +3,31 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+section#featured-property {
+  text-align: center;
+}
+
+nav a {
+  text-align: center;
+  padding: 10 px;
+  background: grey;
+}
+
+section#featured-property p {
+  width: 800px;
+  text-align: center;
+  margin: auto;
+}
+
+section#details div{
+  float: left;
+  background: red;
+  text-align: center;
+  width: 25%;
+
+}
